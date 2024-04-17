@@ -13,7 +13,8 @@ The purpose of this project is to analyze Customers retaining with Bank.
 - Data Visualization
 
 # Technologies Used
-- Microsoft Excel 
+- Microsoft Excel
+- Jupyter Notebook
 - Python - Pandas,
 - Matplotlib
 - Seaborn Libraries.
