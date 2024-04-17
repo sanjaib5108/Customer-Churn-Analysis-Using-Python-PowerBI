@@ -3,7 +3,7 @@
 # Project Description
 BAnk Customer Churn Analysis Using Python and PowerBI I have taken this Project to see the Customer Churn Analysis and created Data Visualizations using Tableau and PowerBI.
 
-# Project Intro/Objective
+# Project Introduction / Objective
 The purpose of this project is to analyze Customers retaining with Bank.
 
 # Methods Used
